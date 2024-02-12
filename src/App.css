@@ -1,0 +1,21 @@
+.app__title{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+
+.app__btn{
+    
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+    color: white;
+    background-color: #0099ff;
+    border: 1px sólido #0099ff;
+    border-radius: 5px;
+    cursor: pointer;
+}
